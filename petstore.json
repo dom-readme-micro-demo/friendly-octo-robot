@@ -17,6 +17,7 @@
       "get": {
         "summary": "List all pets",
         "operationId": "listPets",
+        "description": "Hey Ray! This is an endpoint description",
         "tags": [
           "pets"
         ],
