@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.0",
   "info": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Swagger Petstore",
     "license": {
       "name": "MIT"
@@ -17,7 +17,7 @@
       "get": {
         "summary": "List all pets",
         "operationId": "listPets",
-        "description": "Hey Ray! This is an endpoint description",
+        "description": "",
         "tags": [
           "pets"
         ],
