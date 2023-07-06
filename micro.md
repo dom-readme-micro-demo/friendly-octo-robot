@@ -1,5 +1,3 @@
-# Hey Ray!
+# friendly-octo-robot
 
-Hello there
-
-This is an update!
+Lorem ipsum
